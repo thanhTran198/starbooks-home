@@ -11,18 +11,18 @@ function Navbar() {
         <nav className={cx('navbar-container')}>
             <div className={cx('navbar')}>
                 <Link to="starbooks-home/">
-                    <img className={cx('logo')} src={logo} href="" alt="" />
+                    <img className={cx('logo')} src={logo} alt="" />
                 </Link>
                 <ul className={cx('navbar-list')}>
                     <li className={cx('navbar-item')}>
-                        <Link className={cx('navbar-item_text')} to="starbooks-home/">
+                        <Link className={cx('navbar-item_text')} to="/starbooks-home/">
                             TRANG CHỦ
                         </Link>
                     </li>
                     <li className={cx('navbar-item')}>
-                        <Link className={cx('navbar-item_text')} to="/discountcode">
+                        <a className={cx('navbar-item_text')} href="www.facebook.com">
                             CÁC MÃ GIẢM GIÁ
-                        </Link>
+                        </a>
                     </li>
                 </ul>
             </div>

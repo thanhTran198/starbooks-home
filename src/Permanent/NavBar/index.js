@@ -20,7 +20,7 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className={cx('navbar-item')}>
-                        <a className={cx('navbar-item_text')} href="www.facebook.com">
+                        <a className={cx('navbar-item_text')} href={'http://google.com'}>
                             CÁC MÃ GIẢM GIÁ
                         </a>
                     </li>

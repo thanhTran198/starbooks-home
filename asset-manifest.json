@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/starbooks-home/static/css/main.cd4e4a5c.css",
+    "main.css": "/starbooks-home/static/css/main.1091f8ae.css",
     "main.js": "/starbooks-home/static/js/main.380f8026.js",
     "static/js/787.771df47e.chunk.js": "/starbooks-home/static/js/787.771df47e.chunk.js",
     "index.html": "/starbooks-home/index.html",
-    "main.cd4e4a5c.css.map": "/starbooks-home/static/css/main.cd4e4a5c.css.map",
+    "main.1091f8ae.css.map": "/starbooks-home/static/css/main.1091f8ae.css.map",
     "main.380f8026.js.map": "/starbooks-home/static/js/main.380f8026.js.map",
     "787.771df47e.chunk.js.map": "/starbooks-home/static/js/787.771df47e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd4e4a5c.css",
+    "static/css/main.1091f8ae.css",
     "static/js/main.380f8026.js"
   ]
 }

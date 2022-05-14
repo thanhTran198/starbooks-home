@@ -1,0 +1,13 @@
+.container-star {
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+.star {
+    display: flex;
+    align-items: center;
+    color: var(--primary-color);
+    margin-right: 2px;
+    font-size: 18px;
+}

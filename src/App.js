@@ -12,7 +12,7 @@ function App() {
 
                 <div className="body">
                     <Routes>
-                        <Route path="starbooks-home/" element={<Home />} />
+                        <Route path="/starbooks-home/" element={<Home />} />
                     </Routes>
                 </div>
             </div>

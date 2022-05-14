@@ -20,7 +20,10 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className={cx('navbar-item')}>
-                        <a className={cx('navbar-item_text')} href={'http://google.com'}>
+                        <a
+                            className={cx('navbar-item_text')}
+                            href={'https://thanhtran198.github.io/starbooks-DiscountCode/'}
+                        >
                             CÁC MÃ GIẢM GIÁ
                         </a>
                     </li>

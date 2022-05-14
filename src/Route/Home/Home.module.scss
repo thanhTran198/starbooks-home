@@ -66,3 +66,38 @@
         border: none;
     }
 }
+
+/* Mobile: width < 740px */
+@media only screen and (max-width: 46.1875em) {
+    .container {
+        width: 100%;
+    }
+
+    .books-item {
+        width: 180px;
+    }
+
+    .img-product_container {
+        width: 178px;
+        height: 178px;
+    }
+
+    .img-product {
+        height: 178px;
+    }
+
+    .link-shopee {
+        padding: 9px 9px;
+    }
+}
+
+/* Tablet: width >=740px and width < 1024px */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+    .container {
+        width: 100%;
+    }
+}
+
+/* PC: width >=1024px */
+@media only screen and (max-width: 64em) {
+}

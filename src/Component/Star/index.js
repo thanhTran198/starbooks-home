@@ -64,7 +64,7 @@ function Star({ numberStar }) {
                 ''
             )}
 
-            <p>({numberStar})</p>
+            <p className={cx('number-star')}>({numberStar})</p>
         </div>
     );
 }

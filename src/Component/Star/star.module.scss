@@ -15,3 +15,13 @@
 .number-star {
     margin: 0;
 }
+
+@media only screen and (max-width: 46.1875em) {
+    .star {
+        font-size: 14px;
+    }
+
+    .number-star {
+        font-size: 14px;
+    }
+}
